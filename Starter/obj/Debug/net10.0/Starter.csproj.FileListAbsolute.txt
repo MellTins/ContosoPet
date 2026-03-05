@@ -1,0 +1,14 @@
+C:\Users\Catatau\Desktop\ContosoPet\Starter\bin\Debug\net10.0\Starter.exe
+C:\Users\Catatau\Desktop\ContosoPet\Starter\bin\Debug\net10.0\Starter.deps.json
+C:\Users\Catatau\Desktop\ContosoPet\Starter\bin\Debug\net10.0\Starter.runtimeconfig.json
+C:\Users\Catatau\Desktop\ContosoPet\Starter\bin\Debug\net10.0\Starter.dll
+C:\Users\Catatau\Desktop\ContosoPet\Starter\bin\Debug\net10.0\Starter.pdb
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.AssemblyInfo.cs
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.dll
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\refint\Starter.dll
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.pdb
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\Starter.genruntimeconfig.cache
+C:\Users\Catatau\Desktop\ContosoPet\Starter\obj\Debug\net10.0\ref\Starter.dll
